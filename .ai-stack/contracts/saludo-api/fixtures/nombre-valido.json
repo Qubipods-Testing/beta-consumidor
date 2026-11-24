@@ -1,0 +1,18 @@
+{
+  "operationId": "obtenerSaludo",
+  "request": {
+    "method": "GET",
+    "path": "/saludo",
+    "query": {
+      "nombre": "Ana"
+    },
+    "headers": {}
+  },
+  "response": {
+    "status": 200,
+    "body": {
+      "mensaje": "Hola, Ana.",
+      "generadoEn": "2026-11-24T10:15:00.000Z"
+    }
+  }
+}
