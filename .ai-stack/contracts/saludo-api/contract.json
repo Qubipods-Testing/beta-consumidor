@@ -145,7 +145,7 @@
   ],
   "title": "API de saludo",
   "format": "qubipods.contract/1",
-  "summary": "Endpoint HTTP que devuelve un saludo personalizado y la fecha de generación para que otros sistemas lo muestren sin reimplementarlo. (copia editada a mano para la prueba C.1)",
+  "summary": "Endpoint HTTP que devuelve un saludo personalizado y la fecha de generación para que otros sistemas lo muestren sin reimplementarlo.",
   "version": "1.0.0",
   "provider": {
     "system": "beta-proveedor"
