@@ -1,0 +1,4 @@
+{
+  "traditionalHours": 6,
+  "basis": "Serie A tiene 4 tareas: configurar package.json (0.5h), escribir 3 pruebas node:test contra el mock del contrato incluyendo el arranque/cierre del mock-server (2.5h), implementar obtenerSaludo con fetch y traducción de errores (2h), y estabilizar hasta dejar npm test en verde (1h), para un equipo tradicional sin asistencia de IA."
+}
