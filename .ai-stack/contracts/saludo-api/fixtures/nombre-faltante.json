@@ -1,0 +1,16 @@
+{
+  "operationId": "obtenerSaludo",
+  "request": {
+    "method": "GET",
+    "path": "/saludo",
+    "query": {},
+    "headers": {}
+  },
+  "response": {
+    "status": 400,
+    "body": {
+      "codigo": "NOMBRE_OBLIGATORIO",
+      "mensaje": "El nombre es obligatorio."
+    }
+  }
+}
