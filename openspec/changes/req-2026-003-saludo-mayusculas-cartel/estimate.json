@@ -1,0 +1,4 @@
+{
+  "traditionalHours": 4,
+  "basis": "Serie A tiene 5 tareas: añadir obtenerSaludo si falta y configurar package.json (0.5h), escribir 2 pruebas node:test contra el mock del contrato incluyendo el arranque/cierre del mock-server (1.5h), implementar saludoEnMayusculas delegando en obtenerSaludo (1h), y estabilizar hasta dejar npm test en verde (1h), para un equipo tradicional sin asistencia de IA."
+}
